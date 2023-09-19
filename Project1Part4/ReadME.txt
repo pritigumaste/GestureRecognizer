@@ -24,5 +24,5 @@ How to run:
 	video_demo1.mkv consists of demo for 1 sample of all the 16 gestures.
 
 Team Members:
-Sai Mohan Sujay Kanchumarthi - 4602-1313 - Skanchumarthi@ufl.edu
-Priti Gumaste - 4953-5219 - pgumaste@ufl.edu
+Sai Mohan Sujay Kanchumarthi -Skanchumarthi@ufl.edu
+Priti Gumaste -  pgumaste@ufl.edu

@@ -17,5 +17,5 @@ We have added a demo video (video_demo.mkv) of the explanation of the code and a
 
 
 Team Members:
-Sai Mohan Sujay Kanchumarthi - 4602-1313 - Skanchumarthi@ufl.edu
-Priti Gumaste - 4953-5219 - pgumaste@ufl.edu
+Sai Mohan Sujay Kanchumarthi-Skanchumarthi@ufl.edu
+Priti Gumaste -  pgumaste@ufl.edu
